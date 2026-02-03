@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ria447
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am Bharatanatyam dancer
 
